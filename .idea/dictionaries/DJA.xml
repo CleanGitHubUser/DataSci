@@ -47,6 +47,7 @@
       <w>.I</w>
       <w>.Internal</w>
       <w>.JULIAN</w>
+      <w>.Last.projection</w>
       <w>.Last.value</w>
       <w>.Library</w>
       <w>.Library.site</w>
@@ -99,6 +100,7 @@
       <w>.__C__CHMfactor</w>
       <w>.__C__CHMsimpl</w>
       <w>.__C__CHMsuper</w>
+      <w>.__C__CRS</w>
       <w>.__C__Cholesky</w>
       <w>.__C__CholeskyFactorization</w>
       <w>.__C__ClassUnionRepresentation</w>
@@ -108,6 +110,7 @@
       <w>.__C__DBIDriver</w>
       <w>.__C__DBIObject</w>
       <w>.__C__DBIResult</w>
+      <w>.__C__DMS</w>
       <w>.__C__Date</w>
       <w>.__C__EmptyMethodsList</w>
       <w>.__C__ExactNullDistribution</w>
@@ -118,6 +121,7 @@
       <w>.__C__FormattedInteger</w>
       <w>.__C__FormattedNumber</w>
       <w>.__C__FormulaParts</w>
+      <w>.__C__GridTopology</w>
       <w>.__C__HLS</w>
       <w>.__C__HSV</w>
       <w>.__C__HTMLInternalDocument</w>
@@ -136,7 +140,9 @@
       <w>.__C__LU</w>
       <w>.__C__LUV</w>
       <w>.__C__LearningSample</w>
+      <w>.__C__Line</w>
       <w>.__C__LinearMethodsList</w>
+      <w>.__C__Lines</w>
       <w>.__C__Matrix</w>
       <w>.__C__MatrixFactorization</w>
       <w>.__C__MaxTypeIndependenceTest</w>
@@ -160,6 +166,8 @@
       <w>.__C__POSIXt</w>
       <w>.__C__PValue</w>
       <w>.__C__Percent</w>
+      <w>.__C__Polygon</w>
+      <w>.__C__Polygons</w>
       <w>.__C__PossibleMethod</w>
       <w>.__C__QuadTypeIndependenceTest</w>
       <w>.__C__QuadTypeIndependenceTestStatistic</w>
@@ -185,6 +193,19 @@
       <w>.__C__SchemaTypeTable</w>
       <w>.__C__Schur</w>
       <w>.__C__SealedMethodDefinition</w>
+      <w>.__C__Spatial</w>
+      <w>.__C__SpatialGrid</w>
+      <w>.__C__SpatialGridDataFrame</w>
+      <w>.__C__SpatialLines</w>
+      <w>.__C__SpatialLinesDataFrame</w>
+      <w>.__C__SpatialMultiPoints</w>
+      <w>.__C__SpatialMultiPointsDataFrame</w>
+      <w>.__C__SpatialPixels</w>
+      <w>.__C__SpatialPixelsDataFrame</w>
+      <w>.__C__SpatialPoints</w>
+      <w>.__C__SpatialPointsDataFrame</w>
+      <w>.__C__SpatialPolygons</w>
+      <w>.__C__SpatialPolygonsDataFrame</w>
       <w>.__C__SplittingNode</w>
       <w>.__C__StatModel</w>
       <w>.__C__StatModelCapabilities</w>
@@ -318,6 +339,7 @@
       <w>.__C__hsearch</w>
       <w>.__C__iMatrix</w>
       <w>.__C__if</w>
+      <w>.__C__im</w>
       <w>.__C__indMatrix</w>
       <w>.__C__index</w>
       <w>.__C__index_timeSeries</w>
@@ -419,6 +441,7 @@
       <w>.__C__oldClass</w>
       <w>.__C__optionalMethod</w>
       <w>.__C__ordered</w>
+      <w>.__C__owin</w>
       <w>.__C__pBunchKaufman</w>
       <w>.__C__pCholesky</w>
       <w>.__C__pMatrix</w>
@@ -427,9 +450,11 @@
       <w>.__C__performance</w>
       <w>.__C__polarLAB</w>
       <w>.__C__polarLUV</w>
+      <w>.__C__ppp</w>
       <w>.__C__predModule</w>
       <w>.__C__prediction</w>
       <w>.__C__profile.mle</w>
+      <w>.__C__psp</w>
       <w>.__C__quantmod</w>
       <w>.__C__quantmodReturn</w>
       <w>.__C__raw</w>
@@ -747,6 +772,7 @@
       <w>.make.positive.definite</w>
       <w>.makeMessage</w>
       <w>.make_numeric_version</w>
+      <w>.map.range</w>
       <w>.mapply</w>
       <w>.maskedMsg</w>
       <w>.maxddStats</w>
@@ -993,6 +1019,7 @@
       <w>Acf</w>
       <w>Ad</w>
       <w>Adak</w>
+      <w>AddAlpha</w>
       <w>Addis_Ababa</w>
       <w>Adelaide</w>
       <w>Aden</w>
@@ -1147,6 +1174,7 @@
       <w>CRAN_check_results</w>
       <w>CRAN_memtest_notes</w>
       <w>CRAN_package_db</w>
+      <w>CRS</w>
       <w>CRchart</w>
       <w>CST</w>
       <w>CV</w>
@@ -1211,6 +1239,7 @@
       <w>Cocos</w>
       <w>ColoCan</w>
       <w>Colombo</w>
+      <w>ColorMap</w>
       <w>Comoro</w>
       <w>Compare</w>
       <w>Complex</w>
@@ -1248,6 +1277,7 @@
       <w>DELETE</w>
       <w>DEMA</w>
       <w>DENewYearsEve</w>
+      <w>DF2SpatialPointsDataFrame</w>
       <w>DJIA</w>
       <w>DLL.version</w>
       <w>DMwR</w>
@@ -1420,7 +1450,12 @@
       <w>GeomViolin</w>
       <w>GeomVline</w>
       <w>GermanM1</w>
+      <w>GetBingMap</w>
+      <w>GetMap</w>
+      <w>GetMap.bbox</w>
+      <w>GetMapTiles</w>
       <w>GetModelFrame</w>
+      <w>GetOsmMap</w>
       <w>Gibraltar</w>
       <w>GiniMd</w>
       <w>Ginzberg</w>
@@ -1435,6 +1470,7 @@
       <w>Grand_Turk</w>
       <w>Greene</w>
       <w>Grenada</w>
+      <w>GridTopology</w>
       <w>Grossarl</w>
       <w>Guadalcanal</w>
       <w>Guadeloupe</w>
@@ -1471,6 +1507,7 @@
       <w>Helsinki</w>
       <w>Hermosillo</w>
       <w>Hershey</w>
+      <w>HexPoints2SpatialPolygons</w>
       <w>Hi</w>
       <w>HiCl</w>
       <w>Highway1</w>
@@ -1488,6 +1525,8 @@
       <w>I</w>
       <w>ICL</w>
       <w>IDateTime</w>
+      <w>IDvaluesGridTopology</w>
+      <w>IDvaluesSpatialPixels</w>
       <w>IGF</w>
       <w>INDEXED_COLORS_</w>
       <w>IQR</w>
@@ -1500,6 +1539,7 @@
       <w>ITLiberationDay</w>
       <w>ITStAmrose</w>
       <w>Identify3d</w>
+      <w>IdentifyPoints</w>
       <w>Im</w>
       <w>Indianapolis</w>
       <w>Indometh</w>
@@ -1630,6 +1670,8 @@
       <w>LakeAcidity</w>
       <w>LakeHuron</w>
       <w>Lapply</w>
+      <w>LatLon2XY</w>
+      <w>LatLon2XY.centered</w>
       <w>Lb_ddf</w>
       <w>LdFlags</w>
       <w>Leinhardt</w>
@@ -1638,7 +1680,11 @@
       <w>Lifeboats</w>
       <w>Lima</w>
       <w>Lindeman</w>
+      <w>Line</w>
+      <w>LineLength</w>
       <w>LinearScaling</w>
+      <w>Lines</w>
+      <w>LinesLength</w>
       <w>Lisbon</w>
       <w>ListReporter</w>
       <w>Ljubljana</w>
@@ -1653,6 +1699,7 @@
       <w>LogitBoost</w>
       <w>Lognorm2</w>
       <w>Lome</w>
+      <w>LonLat2XY</w>
       <w>London</w>
       <w>Longyearbyen</w>
       <w>Lord_Howe</w>
@@ -1694,6 +1741,7 @@
       <w>Manila</w>
       <w>Manova</w>
       <w>Map</w>
+      <w>MapBackground</w>
       <w>Maputo</w>
       <w>Marengo</w>
       <w>Mariehamn</w>
@@ -1716,6 +1764,7 @@
       <w>MatrixModels</w>
       <w>Mauritius</w>
       <w>Mawson</w>
+      <w>MaxZoom</w>
       <w>Mayotte</w>
       <w>Mazatlan</w>
       <w>Mbabane</w>
@@ -1779,6 +1828,7 @@
       <w>NOXINCNODE</w>
       <w>NROW</w>
       <w>NSCLEAN</w>
+      <w>NYleukemia</w>
       <w>Nairobi</w>
       <w>Names</w>
       <w>Names2names</w>
@@ -1817,6 +1867,7 @@
       <w>OME</w>
       <w>ORDER</w>
       <w>ORDER.default</w>
+      <w>OSM_scale_lookup</w>
       <w>Oats</w>
       <w>OlsonNames</w>
       <w>Omsk</w>
@@ -1894,7 +1945,13 @@
       <w>Pitcairn</w>
       <w>Pixel</w>
       <w>PlantGrowth</w>
+      <w>PlotArrowsOnStaticMap</w>
+      <w>PlotOnMapTiles</w>
+      <w>PlotOnStaticMap</w>
+      <w>PlotPolysOnStaticMap</w>
       <w>Podgorica</w>
+      <w>Polygon</w>
+      <w>Polygons</w>
       <w>Ponape</w>
       <w>Pontianak</w>
       <w>Population</w>
@@ -1962,6 +2019,7 @@
       <w>RECOVER</w>
       <w>RETRY</w>
       <w>RGB</w>
+      <w>RGB2GRAY</w>
       <w>RJDBC</w>
       <w>RNGkind</w>
       <w>RNGversion</w>
@@ -2003,6 +2061,7 @@
       <w>Rdindex</w>
       <w>Re</w>
       <w>ReScaling</w>
+      <w>ReadMapTile</w>
       <w>RealInt</w>
       <w>Recall</w>
       <w>Recife</w>
@@ -2018,10 +2077,12 @@
       <w>Resolute</w>
       <w>Reunion</w>
       <w>Reykjavik</w>
+      <w>RgoogleMaps</w>
       <w>Riga</w>
       <w>Rio_Branco</w>
       <w>Rio_Gallegos</w>
       <w>Riyadh</w>
+      <w>Rlogo</w>
       <w>Robey</w>
       <w>Rochdale</w>
       <w>RogationSunday</w>
@@ -2146,6 +2207,24 @@
       <w>Soybean</w>
       <w>SpaceShuttle</w>
       <w>SparseM</w>
+      <w>Spatial</w>
+      <w>SpatialGrid</w>
+      <w>SpatialGridDataFrame</w>
+      <w>SpatialLines</w>
+      <w>SpatialLines2map</w>
+      <w>SpatialLinesDataFrame</w>
+      <w>SpatialLinesLengths</w>
+      <w>SpatialMultiPoints</w>
+      <w>SpatialMultiPointsDataFrame</w>
+      <w>SpatialPixels</w>
+      <w>SpatialPixelsDataFrame</w>
+      <w>SpatialPoints</w>
+      <w>SpatialPointsDataFrame</w>
+      <w>SpatialPolygons</w>
+      <w>SpatialPolygons2map</w>
+      <w>SpatialPolygonsDataFrame</w>
+      <w>SpatialPolygonsRescale</w>
+      <w>SpatialToPBS</w>
       <w>Spruce</w>
       <w>St_Barthelemy</w>
       <w>St_Helena</w>
@@ -2252,11 +2331,13 @@
       <w>Tell_City</w>
       <w>Tetracycline1</w>
       <w>Tetracycline2</w>
+      <w>TextOnStaticMap</w>
       <w>Theoph</w>
       <w>Thimphu</w>
       <w>Thule</w>
       <w>Thunder_Bay</w>
       <w>Tijuana</w>
+      <w>Tile2R</w>
       <w>Tirane</w>
       <w>Titanic</w>
       <w>Token</w>
@@ -2407,6 +2488,8 @@
       <w>X11</w>
       <w>XINCLUDE</w>
       <w>XML</w>
+      <w>XY2LatLon</w>
+      <w>XY2LonLat</w>
       <w>XYZ</w>
       <w>Yakutat</w>
       <w>Yakutsk</w>
@@ -2457,6 +2540,7 @@
       <w>`%like%`</w>
       <w>`%nin%`</w>
       <w>`%o%`</w>
+      <w>`%over%`</w>
       <w>`%s!=%`</w>
       <w>`%s!==%`</w>
       <w>`%s+%`</w>
@@ -2549,6 +2633,7 @@
       <w>`.__T__[[&lt;-:base`</w>
       <w>`.__T__^:base`</w>
       <w>`.__T__abline:graphics`</w>
+      <w>`.__T__addAttrToGeom:sp`</w>
       <w>`.__T__addAttributes:XML`</w>
       <w>`.__T__addNextMethod:methods`</w>
       <w>`.__T__aggregate:stats`</w>
@@ -2559,6 +2644,7 @@
       <w>`.__T__anyDuplicated:base`</w>
       <w>`.__T__anyNA:base`</w>
       <w>`.__T__apply:base`</w>
+      <w>`.__T__areaPolygon:geosphere`</w>
       <w>`.__T__as.array:base`</w>
       <w>`.__T__as.character:base`</w>
       <w>`.__T__as.data.frame:base`</w>
@@ -2578,8 +2664,10 @@
       <w>`.__T__attach:base`</w>
       <w>`.__T__backsolve:SparseM`</w>
       <w>`.__T__band:Matrix`</w>
+      <w>`.__T__bbox:sp`</w>
       <w>`.__T__body&lt;-:base`</w>
       <w>`.__T__cbind2:methods`</w>
+      <w>`.__T__centroid:geosphere`</w>
       <w>`.__T__chol2inv:base`</w>
       <w>`.__T__chol:base`</w>
       <w>`.__T__clone:modeltools`</w>
@@ -2602,6 +2690,10 @@
       <w>`.__T__comment:base`</w>
       <w>`.__T__comment&lt;-:base`</w>
       <w>`.__T__confint:stats`</w>
+      <w>`.__T__coordinates:sp`</w>
+      <w>`.__T__coordinates&lt;-:sp`</w>
+      <w>`.__T__coordnames:sp`</w>
+      <w>`.__T__coordnames&lt;-:sp`</w>
       <w>`.__T__coords:colorspace`</w>
       <w>`.__T__cov2cor:stats`</w>
       <w>`.__T__covariance:coin`</w>
@@ -2660,8 +2752,10 @@
       <w>`.__T__dim:base`</w>
       <w>`.__T__dim&lt;-:base`</w>
       <w>`.__T__dimension:modeltools`</w>
+      <w>`.__T__dimensions:sp`</w>
       <w>`.__T__dimnames:base`</w>
       <w>`.__T__dimnames&lt;-:base`</w>
+      <w>`.__T__disaggregate:sp`</w>
       <w>`.__T__docName:XML`</w>
       <w>`.__T__docName&lt;-:XML`</w>
       <w>`.__T__dperm:coin`</w>
@@ -2691,9 +2785,15 @@
       <w>`.__T__forwardsolve:base`</w>
       <w>`.__T__free:XML`</w>
       <w>`.__T__frequency:stats`</w>
+      <w>`.__T__fullgrid:sp`</w>
+      <w>`.__T__fullgrid&lt;-:sp`</w>
+      <w>`.__T__geometry:sp`</w>
+      <w>`.__T__geometry&lt;-:sp`</w>
       <w>`.__T__getDataPart:methods`</w>
       <w>`.__T__getEncoding:XML`</w>
       <w>`.__T__getModel:modeltools`</w>
+      <w>`.__T__gridded:sp`</w>
+      <w>`.__T__gridded&lt;-:sp`</w>
       <w>`.__T__has:modeltools`</w>
       <w>`.__T__head:utils`</w>
       <w>`.__T__image:graphics`</w>
@@ -2703,6 +2803,7 @@
       <w>`.__T__is.finite:base`</w>
       <w>`.__T__is.infinite:base`</w>
       <w>`.__T__is.na:base`</w>
+      <w>`.__T__is.projected:sp`</w>
       <w>`.__T__is.unsorted:base`</w>
       <w>`.__T__isDaily:timeDate`</w>
       <w>`.__T__isDiagonal:Matrix`</w>
@@ -2744,10 +2845,14 @@
       <w>`.__T__nodes:party`</w>
       <w>`.__T__norm:base`</w>
       <w>`.__T__outlier:timeSeries`</w>
+      <w>`.__T__over:sp`</w>
       <w>`.__T__pack:Matrix`</w>
       <w>`.__T__parameters:modeltools`</w>
+      <w>`.__T__perimeter:geosphere`</w>
       <w>`.__T__plot:graphics`</w>
       <w>`.__T__points:graphics`</w>
+      <w>`.__T__polygons:sp`</w>
+      <w>`.__T__polygons&lt;-:sp`</w>
       <w>`.__T__posterior:modeltools`</w>
       <w>`.__T__pperm:coin`</w>
       <w>`.__T__print:base`</w>
@@ -2755,6 +2860,8 @@
       <w>`.__T__processingInstruction.SAX:XML`</w>
       <w>`.__T__prod:base`</w>
       <w>`.__T__profile:stats`</w>
+      <w>`.__T__proj4string:sp`</w>
+      <w>`.__T__proj4string&lt;-:sp`</w>
       <w>`.__T__prompt:utils`</w>
       <w>`.__T__pvalue:coin`</w>
       <w>`.__T__pvalue_interval:coin`</w>
@@ -2776,6 +2883,7 @@
       <w>`.__T__readHTMLTable:XML`</w>
       <w>`.__T__readKeyValueDB:XML`</w>
       <w>`.__T__readSolrDoc:XML`</w>
+      <w>`.__T__recenter:sp`</w>
       <w>`.__T__refit:modeltools`</w>
       <w>`.__T__relabel:modeltools`</w>
       <w>`.__T__removeAttributes:XML`</w>
@@ -2805,6 +2913,14 @@
       <w>`.__T__solveCoef:MatrixModels`</w>
       <w>`.__T__sort:base`</w>
       <w>`.__T__source:base`</w>
+      <w>`.__T__spChFIDs:sp`</w>
+      <w>`.__T__spChFIDs&lt;-:sp`</w>
+      <w>`.__T__spTransform:sp`</w>
+      <w>`.__T__span:geosphere`</w>
+      <w>`.__T__split:base`</w>
+      <w>`.__T__sppanel:sp`</w>
+      <w>`.__T__spplot:sp`</w>
+      <w>`.__T__spsample:sp`</w>
       <w>`.__T__sqlAppendTable:DBI`</w>
       <w>`.__T__sqlCreateTable:DBI`</w>
       <w>`.__T__sqlData:DBI`</w>
@@ -2818,6 +2934,7 @@
       <w>`.__T__sum:base`</w>
       <w>`.__T__summary:base`</w>
       <w>`.__T__support:coin`</w>
+      <w>`.__T__surfaceArea:sp`</w>
       <w>`.__T__symmpart:Matrix`</w>
       <w>`.__T__t:base`</w>
       <w>`.__T__tail:utils`</w>
@@ -2945,6 +3062,8 @@
       <w>`comment&lt;-`</w>
       <w>`consolidate&lt;-`</w>
       <w>`contrasts&lt;-`</w>
+      <w>`coordinates&lt;-`</w>
+      <w>`coordnames&lt;-`</w>
       <w>`coredata&lt;-`</w>
       <w>`covariate&lt;-`</w>
       <w>`diag&lt;-`</w>
@@ -2968,7 +3087,10 @@
       <w>`fn_fmls_names&lt;-`</w>
       <w>`formals&lt;-`</w>
       <w>`frequency&lt;-`</w>
+      <w>`fullgrid&lt;-`</w>
       <w>`functionBody&lt;-`</w>
+      <w>`geometry&lt;-`</w>
+      <w>`gridded&lt;-`</w>
       <w>`htmlDependencies&lt;-`</w>
       <w>`index&lt;-`</w>
       <w>`indexClass&lt;-`</w>
@@ -3010,6 +3132,8 @@
       <w>`parent.env&lt;-`</w>
       <w>`physical&lt;-.default`</w>
       <w>`physical&lt;-`</w>
+      <w>`polygons&lt;-`</w>
+      <w>`proj4string&lt;-`</w>
       <w>`regmatches&lt;-`</w>
       <w>`repfromto&lt;-`</w>
       <w>`row.names&lt;-.data.frame`</w>
@@ -3024,6 +3148,7 @@
       <w>`setTime&lt;-`</w>
       <w>`setUnits&lt;-`</w>
       <w>`slot&lt;-`</w>
+      <w>`spChFIDs&lt;-`</w>
       <w>`split&lt;-.data.frame`</w>
       <w>`split&lt;-.default`</w>
       <w>`split&lt;-`</w>
@@ -3124,6 +3249,7 @@
       <w>addATR</w>
       <w>addAroon</w>
       <w>addAroonOsc</w>
+      <w>addAttrToGeom</w>
       <w>addAttributes</w>
       <w>addAutoFilter</w>
       <w>addBBands</w>
@@ -3298,6 +3424,7 @@
       <w>all_rcpp_labels</w>
       <w>all_vars</w>
       <w>alloc.col</w>
+      <w>alongTrackDistance</w>
       <w>alpha</w>
       <w>alply</w>
       <w>alzheimer</w>
@@ -3330,6 +3457,8 @@
       <w>ansari_trafo</w>
       <w>anscombe</w>
       <w>anti_join</w>
+      <w>antipodal</w>
+      <w>antipode</w>
       <w>any</w>
       <w>any.bit</w>
       <w>any.bitwhich</w>
@@ -3376,6 +3505,9 @@
       <w>are_equal</w>
       <w>are_na</w>
       <w>area</w>
+      <w>area.map</w>
+      <w>areaPolygon</w>
+      <w>areaSpatialGrid</w>
       <w>area_pal</w>
       <w>areg</w>
       <w>areg.boot</w>
@@ -3446,6 +3578,9 @@
       <w>as.POSIXlt.default</w>
       <w>as.POSIXlt.factor</w>
       <w>as.POSIXlt.numeric</w>
+      <w>as.SpatialLines.SLDF</w>
+      <w>as.SpatialPolygons.GridTopology</w>
+      <w>as.SpatialPolygons.PolygonsList</w>
       <w>as.array</w>
       <w>as.array.default</w>
       <w>as.bit</w>
@@ -3470,6 +3605,7 @@
       <w>as.cell_addr_v</w>
       <w>as.cell_limits</w>
       <w>as.character</w>
+      <w>as.character.DMS</w>
       <w>as.character.Date</w>
       <w>as.character.POSIXt</w>
       <w>as.character.condition</w>
@@ -3518,6 +3654,7 @@
       <w>as.document_position</w>
       <w>as.document_range</w>
       <w>as.double</w>
+      <w>as.double.DMS</w>
       <w>as.double.POSIXlt</w>
       <w>as.double.bit</w>
       <w>as.double.bitwhich</w>
@@ -3539,6 +3676,7 @@
       <w>as.hclust</w>
       <w>as.hexmode</w>
       <w>as.hms</w>
+      <w>as.image.SpatialGridDataFrame</w>
       <w>as.integer</w>
       <w>as.integer.bit</w>
       <w>as.integer.bitwhich</w>
@@ -3577,6 +3715,7 @@
       <w>as.null</w>
       <w>as.null.default</w>
       <w>as.numeric</w>
+      <w>as.numeric.DMS</w>
       <w>as.numeric_version</w>
       <w>as.object_sizes</w>
       <w>as.octmode</w>
@@ -3824,7 +3963,10 @@
       <w>basicStats</w>
       <w>batchSOM</w>
       <w>bats</w>
+      <w>bb2bbox</w>
       <w>bbatch</w>
+      <w>bbexpand</w>
+      <w>bbox</w>
       <w>bc</w>
       <w>bcPower</w>
       <w>bcPowerAxis</w>
@@ -3834,6 +3976,8 @@
       <w>bdiag</w>
       <w>bds.test</w>
       <w>beamer_presentation</w>
+      <w>bearing</w>
+      <w>bearingRhumb</w>
       <w>beav1</w>
       <w>beav2</w>
       <w>beaver</w>
@@ -3976,6 +4120,7 @@
       <w>bppltp</w>
       <w>bptest</w>
       <w>bpx</w>
+      <w>bpy.colors</w>
       <w>bquote</w>
       <w>br</w>
       <w>brambles</w>
@@ -4000,6 +4145,8 @@
       <w>browserText</w>
       <w>bs</w>
       <w>bsamsize</w>
+      <w>bubble</w>
+      <w>bubbleMap</w>
       <w>budworm</w>
       <w>buffalo</w>
       <w>bug.report</w>
@@ -4058,6 +4205,7 @@
       <w>calcInitialDigitDistr</w>
       <w>calcStringMetric</w>
       <w>calc_element</w>
+      <w>calc_zoom</w>
       <w>calcium</w>
       <w>calculateAUC</w>
       <w>calib</w>
@@ -4084,6 +4232,7 @@
       <w>caller_frame</w>
       <w>camp</w>
       <w>canCoerce</w>
+      <w>canada.cities</w>
       <w>cancer</w>
       <w>cancor</w>
       <w>candleChart</w>
@@ -4136,6 +4285,7 @@
       <w>catsM</w>
       <w>cav</w>
       <w>cbind</w>
+      <w>cbind.Spatial</w>
       <w>cbind.data.frame</w>
       <w>cbind.matrix.csr</w>
       <w>cbind.xts</w>
@@ -4165,6 +4315,7 @@
       <w>centers.hclust</w>
       <w>centralImputation</w>
       <w>centralValue</w>
+      <w>centroid</w>
       <w>ceres.plot</w>
       <w>ceres.plots</w>
       <w>ceresPlot</w>
@@ -4182,6 +4333,7 @@
       <w>changes</w>
       <w>channing</w>
       <w>char.expand</w>
+      <w>char2dms</w>
       <w>charToRaw</w>
       <w>character</w>
       <w>character.table</w>
@@ -4435,6 +4587,7 @@
       <w>colsplit</w>
       <w>columb</w>
       <w>columb.polys</w>
+      <w>columbus</w>
       <w>column_to_rownames</w>
       <w>colwise</w>
       <w>combinations</w>
@@ -4468,6 +4621,7 @@
       <w>compareXMLDocs</w>
       <w>compare_tbls</w>
       <w>compare_tbls2</w>
+      <w>compassRose</w>
       <w>compile</w>
       <w>compileAttributes</w>
       <w>compilePKGS</w>
@@ -4560,6 +4714,9 @@
       <w>coord_polar</w>
       <w>coord_quickmap</w>
       <w>coord_trans</w>
+      <w>coordinates</w>
+      <w>coordinatevalues</w>
+      <w>coordnames</w>
       <w>coords</w>
       <w>cophenetic</w>
       <w>coplot</w>
@@ -4613,6 +4770,8 @@
       <w>countFunctions</w>
       <w>countMonthlyRecords</w>
       <w>count_</w>
+      <w>county.fips</w>
+      <w>countyMapEnv</w>
       <w>cov</w>
       <w>cov.mcd</w>
       <w>cov.mve</w>
@@ -4666,6 +4825,7 @@
       <w>create_env</w>
       <w>create_progress_bar</w>
       <w>create_traceback</w>
+      <w>crime</w>
       <w>crimeRate</w>
       <w>crimtab</w>
       <w>criteria</w>
@@ -4803,6 +4963,7 @@
       <w>day.of.week</w>
       <w>dayOfWeek</w>
       <w>dayOfYear</w>
+      <w>daylength</w>
       <w>days</w>
       <w>daysecond</w>
       <w>dbBegin</w>
@@ -4877,6 +5038,7 @@
       <w>dcast.data.table</w>
       <w>dcauchy</w>
       <w>dchisq</w>
+      <w>dd2dms</w>
       <w>ddf_Lb</w>
       <w>ddirichlet</w>
       <w>ddmmmyy</w>
@@ -4907,6 +5069,10 @@
       <w>deff</w>
       <w>defmacro</w>
       <w>deframe</w>
+      <w>degAxis</w>
+      <w>degreeAxis</w>
+      <w>degreeLabelsEW</w>
+      <w>degreeLabelsNS</w>
       <w>delayedAssign</w>
       <w>delete.response</w>
       <w>delimMatch</w>
@@ -4939,6 +5105,8 @@
       <w>descentDetails</w>
       <w>describe</w>
       <w>description</w>
+      <w>destPoint</w>
+      <w>destPointRhumb</w>
       <w>det</w>
       <w>detach</w>
       <w>detect</w>
@@ -5014,6 +5182,7 @@
       <w>dim.data.frame</w>
       <w>dim_desc</w>
       <w>dimension</w>
+      <w>dimensions</w>
       <w>dimnames</w>
       <w>dimnames.data.frame</w>
       <w>dimnames.xts</w>
@@ -5024,6 +5193,7 @@
       <w>direct</w>
       <w>directL</w>
       <w>dirname</w>
+      <w>disaggregate</w>
       <w>disassemble</w>
       <w>discard</w>
       <w>discoveries</w>
@@ -5033,9 +5203,20 @@
       <w>display.brewer.all</w>
       <w>display.brewer.pal</w>
       <w>dist</w>
+      <w>dist2Line</w>
+      <w>dist2gc</w>
       <w>distCheck</w>
+      <w>distCosine</w>
+      <w>distGeo</w>
+      <w>distHaversine</w>
+      <w>distMeeus</w>
+      <w>distQueryCheck</w>
+      <w>distRhumb</w>
+      <w>distVincentyEllipsoid</w>
+      <w>distVincentySphere</w>
       <w>distinct</w>
       <w>distinct_</w>
+      <w>distm</w>
       <w>distplot</w>
       <w>dither</w>
       <w>div</w>
@@ -5521,6 +5702,7 @@
       <w>file.symlink</w>
       <w>fileSnapshot</w>
       <w>file_coverage</w>
+      <w>file_drawer</w>
       <w>file_ext</w>
       <w>file_path_as_absolute</w>
       <w>file_path_sans_ext</w>
@@ -5535,6 +5717,7 @@
       <w>filter_at</w>
       <w>filter_if</w>
       <w>finCenter</w>
+      <w>finalBearing</w>
       <w>finalDefaultMethod</w>
       <w>find</w>
       <w>find.matches</w>
@@ -5625,6 +5808,8 @@
       <w>fligner.test</w>
       <w>fligner_test</w>
       <w>fligner_trafo</w>
+      <w>flipHorizontal</w>
+      <w>flipVertical</w>
       <w>floor</w>
       <w>flower</w>
       <w>flush</w>
@@ -5716,6 +5901,7 @@
       <w>frame_data</w>
       <w>frame_matrix</w>
       <w>frame_position</w>
+      <w>franceMapEnv</w>
       <w>frank</w>
       <w>frankv</w>
       <w>fread</w>
@@ -5746,6 +5932,7 @@
       <w>full.score</w>
       <w>full_join</w>
       <w>full_seq</w>
+      <w>fullgrid</w>
       <w>fullseq</w>
       <w>functionBody</w>
       <w>functionGrob</w>
@@ -5804,6 +5991,12 @@
       <w>gbayesMixPredNoData</w>
       <w>gc</w>
       <w>gc.time</w>
+      <w>gcIntermediate</w>
+      <w>gcIntersect</w>
+      <w>gcIntersectBearing</w>
+      <w>gcLat</w>
+      <w>gcLon</w>
+      <w>gcMaxLat</w>
       <w>gcinfo</w>
       <w>gctorture</w>
       <w>gctorture2</w>
@@ -5817,6 +6010,10 @@
       <w>genericSAXHandlers</w>
       <w>genfan</w>
       <w>genotype</w>
+      <w>geocode</w>
+      <w>geocodeQueryCheck</w>
+      <w>geodesic</w>
+      <w>geodesic_inverse</w>
       <w>geom_abline</w>
       <w>geom_area</w>
       <w>geom_bar</w>
@@ -5841,6 +6038,7 @@
       <w>geom_hline</w>
       <w>geom_jitter</w>
       <w>geom_label</w>
+      <w>geom_leg</w>
       <w>geom_line</w>
       <w>geom_linerange</w>
       <w>geom_map</w>
@@ -5862,6 +6060,9 @@
       <w>geom_tile</w>
       <w>geom_violin</w>
       <w>geom_vline</w>
+      <w>geomean</w>
+      <w>geometry</w>
+      <w>geosphere</w>
       <w>get</w>
       <w>get.gpar</w>
       <w>get.hist.quote</w>
@@ -5928,8 +6129,11 @@
       <w>getFunction</w>
       <w>getGeneric</w>
       <w>getGenerics</w>
+      <w>getGeoCode</w>
       <w>getGraphicsEvent</w>
       <w>getGraphicsEventEnv</w>
+      <w>getGridIndex</w>
+      <w>getGridTopology</w>
       <w>getGrob</w>
       <w>getGroup</w>
       <w>getGroupMembers</w>
@@ -5949,6 +6153,8 @@
       <w>getLRT.merMod</w>
       <w>getLatestSource</w>
       <w>getLineNumber</w>
+      <w>getLinesIDSlot</w>
+      <w>getLinesLinesSlot</w>
       <w>getLoadActions</w>
       <w>getLoadedDLLs</w>
       <w>getMetals</w>
@@ -5980,6 +6186,14 @@
       <w>getParseData</w>
       <w>getParseText</w>
       <w>getPersistentValue</w>
+      <w>getPolygonAreaSlot</w>
+      <w>getPolygonCoordsSlot</w>
+      <w>getPolygonHoleSlot</w>
+      <w>getPolygonLabptSlot</w>
+      <w>getPolygonsIDSlot</w>
+      <w>getPolygonsLabptSlot</w>
+      <w>getPolygonsPolygonsSlot</w>
+      <w>getPolygonsplotOrderSlot</w>
       <w>getPrice</w>
       <w>getProperties</w>
       <w>getPrototype</w>
@@ -5996,12 +6210,22 @@
       <w>getRs</w>
       <w>getRversion</w>
       <w>getS3method</w>
+      <w>getSLLinesIDSlots</w>
+      <w>getSLlinesSlot</w>
       <w>getSec</w>
       <w>getSheets</w>
       <w>getSibling</w>
       <w>getSlot</w>
       <w>getSlots</w>
       <w>getSourceEditorContext</w>
+      <w>getSpPPolygonsIDSlots</w>
+      <w>getSpPPolygonsLabptSlots</w>
+      <w>getSpPnHoles</w>
+      <w>getSpPnParts</w>
+      <w>getSpPplotOrderSlot</w>
+      <w>getSpPpolygonsSlot</w>
+      <w>getSpatialLinesMidPoints</w>
+      <w>getSpatialPolygonsLabelPoints</w>
       <w>getSplits</w>
       <w>getSrcDirectory</w>
       <w>getSrcFilename</w>
@@ -6050,6 +6274,9 @@
       <w>getZip</w>
       <w>get_Lb_ddf</w>
       <w>get_Lb_ddf.lmerMod</w>
+      <w>get_Polypath</w>
+      <w>get_PolypathRule</w>
+      <w>get_ReplCRS_warn</w>
       <w>get_SigmaG</w>
       <w>get_SigmaG.lmerMod</w>
       <w>get_SigmaG.mer</w>
@@ -6058,6 +6285,8 @@
       <w>get_X.merMod</w>
       <w>get_all_vars</w>
       <w>get_callback</w>
+      <w>get_cloudmademap</w>
+      <w>get_col_regions</w>
       <w>get_config</w>
       <w>get_contrasts</w>
       <w>get_contrasts.default</w>
@@ -6067,10 +6296,17 @@
       <w>get_env</w>
       <w>get_expr</w>
       <w>get_extent</w>
+      <w>get_googlemap</w>
+      <w>get_ll_TOL</w>
+      <w>get_ll_warn</w>
+      <w>get_map</w>
       <w>get_max_extent</w>
+      <w>get_navermap</w>
+      <w>get_openstreetmap</w>
       <w>get_reporter</w>
       <w>get_root_desc</w>
       <w>get_spinner</w>
+      <w>get_stamenmap</w>
       <w>get_vartypes</w>
       <w>get_xlevels</w>
       <w>get_xlevels.default</w>
@@ -6090,8 +6326,12 @@
       <w>gg_dep</w>
       <w>ggfreqScatter</w>
       <w>gghistogram</w>
+      <w>ggimage</w>
       <w>gglagchull</w>
       <w>gglagplot</w>
+      <w>gglocator</w>
+      <w>ggmap</w>
+      <w>ggmapplot</w>
       <w>ggmonthplot</w>
       <w>ggplot</w>
       <w>ggplot2</w>
@@ -6198,6 +6438,8 @@
       <w>gray.colors</w>
       <w>grconvertX</w>
       <w>grconvertY</w>
+      <w>greatCircle</w>
+      <w>greatCircleBearing</w>
       <w>green</w>
       <w>greenred</w>
       <w>gregexpr</w>
@@ -6282,10 +6524,15 @@
       <w>grid.xspline</w>
       <w>grid.yaxis</w>
       <w>gridExtra</w>
+      <w>gridIndex2nb</w>
       <w>gridVector</w>
       <w>grid_abline</w>
       <w>grid_barplot</w>
       <w>grid_legend</w>
+      <w>gridat</w>
+      <w>gridded</w>
+      <w>gridlines</w>
+      <w>gridparameters</w>
       <w>grob</w>
       <w>grobAscent</w>
       <w>grobDescent</w>
@@ -6386,6 +6633,7 @@
       <w>h4</w>
       <w>h5</w>
       <w>h6</w>
+      <w>hadley</w>
       <w>haldCement</w>
       <w>handle</w>
       <w>handle_cookies</w>
@@ -6522,6 +6770,7 @@
       <w>hook_purl</w>
       <w>hook_r2swf</w>
       <w>hook_scianimator</w>
+      <w>horizon</w>
       <w>horizonplot</w>
       <w>hour</w>
       <w>hours</w>
@@ -6609,7 +6858,9 @@
       <w>idata.frame</w>
       <w>ident</w>
       <w>identical</w>
+      <w>identicalCRS</w>
       <w>identify</w>
+      <w>identify.map</w>
       <w>identity</w>
       <w>identity_pal</w>
       <w>identity_trans</w>
@@ -6620,6 +6871,8 @@
       <w>ifelse.zoo</w>
       <w>image</w>
       <w>image.default</w>
+      <w>image2Grid</w>
+      <w>imageScale</w>
       <w>image_uri</w>
       <w>imap</w>
       <w>imap_chr</w>
@@ -6647,6 +6900,7 @@
       <w>in.out</w>
       <w>inSide</w>
       <w>in_gamut</w>
+      <w>incidents</w>
       <w>includeCSS</w>
       <w>includeHTML</w>
       <w>includeMarkdown</w>
@@ -6707,6 +6961,8 @@
       <w>insertText</w>
       <w>inset</w>
       <w>inset2</w>
+      <w>inset_ggmap</w>
+      <w>inset_raster</w>
       <w>install.packages</w>
       <w>installFoundDepends</w>
       <w>installXLSXsupport</w>
@@ -6881,6 +7137,7 @@
       <w>is.pairlist</w>
       <w>is.present</w>
       <w>is.primitive</w>
+      <w>is.projected</w>
       <w>is.proto</w>
       <w>is.qr</w>
       <w>is.quantmod</w>
@@ -7103,6 +7360,9 @@
       <w>isdebugged</w>
       <w>islands</w>
       <w>islay</w>
+      <w>iso.alpha</w>
+      <w>iso.expand</w>
+      <w>iso3166</w>
       <w>isoMDS</w>
       <w>isoacf</w>
       <w>isoreg</w>
@@ -7110,6 +7370,7 @@
       <w>isplit2</w>
       <w>isres</w>
       <w>italic</w>
+      <w>italyMapEnv</w>
       <w>iwalk</w>
       <w>jack.after.boot</w>
       <w>jagam</w>
@@ -7244,6 +7505,7 @@
       <w>lag.plot</w>
       <w>lag.xts</w>
       <w>lags</w>
+      <w>lakesMapEnv</w>
       <w>landingcube</w>
       <w>lang</w>
       <w>langElts</w>
@@ -7299,6 +7561,8 @@
       <w>layer_scales</w>
       <w>layout</w>
       <w>layout.heights</w>
+      <w>layout.north.arrow</w>
+      <w>layout.scale.bar</w>
       <w>layout.show</w>
       <w>layout.torture</w>
       <w>layout.widths</w>
@@ -7327,15 +7591,19 @@
       <w>learnerNames</w>
       <w>left</w>
       <w>left_join</w>
+      <w>legacy_world2MapEnv</w>
+      <w>legacy_worldMapEnv</w>
       <w>legend</w>
       <w>legendGrob</w>
       <w>legend_fixed</w>
       <w>legend_resbased</w>
+      <w>legs2route</w>
       <w>length</w>
       <w>length.POSIXlt</w>
       <w>length.bit</w>
       <w>length.bitwhich</w>
       <w>length.ri</w>
+      <w>lengthLine</w>
       <w>lengths</w>
       <w>letter_to_num</w>
       <w>letters</w>
@@ -7457,6 +7725,7 @@
       <w>lmwork</w>
       <w>load</w>
       <w>loadMethod</w>
+      <w>loadMeuse</w>
       <w>loadModule</w>
       <w>loadNamespace</w>
       <w>loadPkgRdMacros</w>
@@ -7550,6 +7819,7 @@
       <w>logrank_weight</w>
       <w>logratio2foldchange</w>
       <w>logtrans</w>
+      <w>longlat.scales</w>
       <w>longley</w>
       <w>loocv</w>
       <w>loocvRun</w>
@@ -7640,11 +7910,13 @@
       <w>makeForkCluster</w>
       <w>makeGeneric</w>
       <w>makeHypothesis</w>
+      <w>makeLine</w>
       <w>makeLocalsCollector</w>
       <w>makeMethodsList</w>
       <w>makeNames</w>
       <w>makeNstr</w>
       <w>makePSOCKcluster</w>
+      <w>makePoly</w>
       <w>makePositiveDefinite</w>
       <w>makePrototypeFromClassDef</w>
       <w>makeRaw</w>
@@ -7652,11 +7924,13 @@
       <w>makeStandardGeneric</w>
       <w>makeSteps</w>
       <w>makeUsageCollector</w>
+      <w>make_bbox</w>
       <w>make_call</w>
       <w>make_expectation</w>
       <w>make_style</w>
       <w>make_tbl</w>
       <w>make_translations_pkg</w>
+      <w>makegrid</w>
       <w>makepredictcall</w>
       <w>makevars_site</w>
       <w>makevars_user</w>
@@ -7669,6 +7943,15 @@
       <w>manual_pal</w>
       <w>manyNAs</w>
       <w>map</w>
+      <w>map.axes</w>
+      <w>map.cities</w>
+      <w>map.clip.poly</w>
+      <w>map.grid</w>
+      <w>map.scale</w>
+      <w>map.text</w>
+      <w>map.where</w>
+      <w>map.wrap</w>
+      <w>map.wrap.poly</w>
       <w>map2</w>
       <w>map2_chr</w>
       <w>map2_dbl</w>
@@ -7677,6 +7960,7 @@
       <w>map2_dfr</w>
       <w>map2_int</w>
       <w>map2_lgl</w>
+      <w>mapLegendGrob</w>
       <w>mapLevels</w>
       <w>map_at</w>
       <w>map_call</w>
@@ -7689,9 +7973,14 @@
       <w>map_if</w>
       <w>map_int</w>
       <w>map_lgl</w>
+      <w>mapasp</w>
+      <w>mapdist</w>
       <w>maply</w>
       <w>mapplot</w>
       <w>mapply</w>
+      <w>mapproj</w>
+      <w>mapproject</w>
+      <w>maps</w>
       <w>mapvalues</w>
       <w>mar_table</w>
       <w>margin</w>
@@ -7713,6 +8002,7 @@
       <w>match.fun</w>
       <w>match.funfn</w>
       <w>match.mChoice</w>
+      <w>match.map</w>
       <w>match.ratetable</w>
       <w>matchCases</w>
       <w>matchChart</w>
@@ -7813,6 +8103,8 @@
       <w>memory.size</w>
       <w>menarche</w>
       <w>menu</w>
+      <w>merc</w>
+      <w>mercator</w>
       <w>mercuryfish</w>
       <w>merge</w>
       <w>merge.data.frame</w>
@@ -7833,6 +8125,11 @@
       <w>methodSignatureMatrix</w>
       <w>methods</w>
       <w>methodsPackageMetaName</w>
+      <w>meuse</w>
+      <w>meuse.area</w>
+      <w>meuse.grid</w>
+      <w>meuse.grid_ll</w>
+      <w>meuse.riv</w>
       <w>mgcv</w>
       <w>mget</w>
       <w>mgp.axis</w>
@@ -7842,6 +8139,7 @@
       <w>mh_test</w>
       <w>mhgr</w>
       <w>michelson</w>
+      <w>midPoint</w>
       <w>midnightStandard</w>
       <w>midnightStandard2</w>
       <w>midpvalue</w>
@@ -8011,6 +8309,7 @@
       <w>mutate_at</w>
       <w>mutate_each</w>
       <w>mutate_each_</w>
+      <w>mutate_geocode</w>
       <w>mutate_if</w>
       <w>muted</w>
       <w>mv</w>
@@ -8021,6 +8320,7 @@
       <w>my_key</w>
       <w>my_pubkey</w>
       <w>myeloid</w>
+      <w>mypolygon</w>
       <w>n</w>
       <w>n2mfrow</w>
       <w>nFit</w>
@@ -8134,6 +8434,7 @@
       <w>newClassRepresentation</w>
       <w>newEmptyObject</w>
       <w>newHTMLDoc</w>
+      <w>newJSONParser</w>
       <w>newTA</w>
       <w>newXMLCDataNode</w>
       <w>newXMLCommentNode</w>
@@ -8327,6 +8628,7 @@
       <w>nwtco</w>
       <w>nyears</w>
       <w>nyse</w>
+      <w>nzMapEnv</w>
       <w>nzchar</w>
       <w>oPar</w>
       <w>oanda.currencies</w>
@@ -8361,6 +8663,7 @@
       <w>oldClass</w>
       <w>olvq1</w>
       <w>on.exit</w>
+      <w>onGreatCircle</w>
       <w>onRender</w>
       <w>onStaticRenderComplete</w>
       <w>on_about_menu_activate</w>
@@ -8647,6 +8950,8 @@
       <w>output_format</w>
       <w>output_utf8</w>
       <w>ovarian</w>
+      <w>over</w>
+      <w>overDF_for_rgeos</w>
       <w>overplot</w>
       <w>overscope_clean</w>
       <w>overscope_eval_next</w>
@@ -8717,6 +9022,7 @@
       <w>panel.3dwire</w>
       <w>panel.Dotplot</w>
       <w>panel.Ecdf</w>
+      <w>panel.RgoogleMaps</w>
       <w>panel.abline</w>
       <w>panel.ablineq</w>
       <w>panel.arrows</w>
@@ -8736,7 +9042,9 @@
       <w>panel.ellipse</w>
       <w>panel.error</w>
       <w>panel.fill</w>
+      <w>panel.ggmap</w>
       <w>panel.grid</w>
+      <w>panel.gridplot</w>
       <w>panel.histogram</w>
       <w>panel.horizonplot</w>
       <w>panel.identify</w>
@@ -8770,11 +9078,13 @@
       <w>panel.points.tis</w>
       <w>panel.points.ts</w>
       <w>panel.points.zoo</w>
+      <w>panel.pointsplot</w>
       <w>panel.polygon</w>
       <w>panel.polygon.its</w>
       <w>panel.polygon.tis</w>
       <w>panel.polygon.ts</w>
       <w>panel.polygon.zoo</w>
+      <w>panel.polygonsplot</w>
       <w>panel.qq</w>
       <w>panel.qqmath</w>
       <w>panel.qqmath.tails</w>
@@ -8929,12 +9239,14 @@
       <w>peek_options</w>
       <w>peek_vars</w>
       <w>pen.edf</w>
+      <w>pennLC</w>
       <w>penny</w>
       <w>percent</w>
       <w>percent_coverage</w>
       <w>percent_format</w>
       <w>percent_rank</w>
       <w>performance</w>
+      <w>perimeter</w>
       <w>period.apply</w>
       <w>period.max</w>
       <w>period.min</w>
@@ -9016,6 +9328,7 @@
       <w>plot.xts</w>
       <w>plot.xy</w>
       <w>plot.zoo</w>
+      <w>plotArrows</w>
       <w>plotCI</w>
       <w>plotCorrPrecision</w>
       <w>plotDigitFreq</w>
@@ -9032,6 +9345,7 @@
       <w>plotcp</w>
       <w>plotlyParm</w>
       <w>plotlySave</w>
+      <w>plotmap</w>
       <w>plotmathTranslate</w>
       <w>plotmeans</w>
       <w>plotpsummaryM</w>
@@ -9062,8 +9376,10 @@
       <w>pnig</w>
       <w>pnorm</w>
       <w>po.test</w>
+      <w>point.in.polygon</w>
       <w>points</w>
       <w>points.default</w>
+      <w>points2grid</w>
       <w>pointsGrob</w>
       <w>poisons</w>
       <w>poisson</w>
@@ -9078,6 +9394,7 @@
       <w>polygon</w>
       <w>polygonGrob</w>
       <w>polygon_regular</w>
+      <w>polygons</w>
       <w>polylineGrob</w>
       <w>polym</w>
       <w>polypath</w>
@@ -9204,6 +9521,7 @@
       <w>print.DLLInfo</w>
       <w>print.DLLInfoList</w>
       <w>print.DLLRegisteredRoutines</w>
+      <w>print.DMS</w>
       <w>print.Date</w>
       <w>print.Dlist</w>
       <w>print.KRmodcomp</w>
@@ -9304,6 +9622,7 @@
       <w>progress_win</w>
       <w>prohibitGeneric</w>
       <w>proj</w>
+      <w>proj4string</w>
       <w>project</w>
       <w>promax</w>
       <w>prompt</w>
@@ -9372,6 +9691,7 @@
       <w>pwilcox</w>
       <w>pyears</w>
       <w>q</w>
+      <w>qbbox</w>
       <w>qbeta</w>
       <w>qbinom</w>
       <w>qbirthday</w>
@@ -9390,6 +9710,8 @@
       <w>qhyper</w>
       <w>qlnorm</w>
       <w>qlogis</w>
+      <w>qmap</w>
+      <w>qmplot</w>
       <w>qmvnorm</w>
       <w>qmvt</w>
       <w>qnbinom</w>
@@ -9519,6 +9841,7 @@
       <w>rand_num</w>
       <w>rand_seed</w>
       <w>random.effects</w>
+      <w>randomCoordinates</w>
       <w>randomForest2Rules</w>
       <w>randu</w>
       <w>ranef</w>
@@ -9561,6 +9884,16 @@
       <w>rbernoulli</w>
       <w>rbeta</w>
       <w>rbind</w>
+      <w>rbind.SpatialLines</w>
+      <w>rbind.SpatialLinesDataFrame</w>
+      <w>rbind.SpatialMultiPoints</w>
+      <w>rbind.SpatialMultiPointsDataFrame</w>
+      <w>rbind.SpatialPixels</w>
+      <w>rbind.SpatialPixelsDataFrame</w>
+      <w>rbind.SpatialPoints</w>
+      <w>rbind.SpatialPointsDataFrame</w>
+      <w>rbind.SpatialPolygons</w>
+      <w>rbind.SpatialPolygonsDataFrame</w>
       <w>rbind.data.frame</w>
       <w>rbind.fill</w>
       <w>rbind.fill.matrix</w>
@@ -9604,6 +9937,7 @@
       <w>read.ENVI</w>
       <w>read.S</w>
       <w>read.arff</w>
+      <w>read.asciigrid</w>
       <w>read.csv</w>
       <w>read.csv.sql</w>
       <w>read.csv.zoo</w>
@@ -9649,10 +9983,12 @@
       <w>readHB</w>
       <w>readHTMLList</w>
       <w>readHTMLTable</w>
+      <w>readJPEG</w>
       <w>readKeyValueDB</w>
       <w>readLines</w>
       <w>readMM</w>
       <w>readNEWS</w>
+      <w>readPNG</w>
       <w>readPreference</w>
       <w>readRDS</w>
       <w>readRGB</w>
@@ -9688,6 +10024,7 @@
       <w>rearrange</w>
       <w>recalc</w>
       <w>recast</w>
+      <w>recenter</w>
       <w>reciprocal_trans</w>
       <w>reclass</w>
       <w>recode</w>
@@ -9712,6 +10049,7 @@
       <w>reduce2_right</w>
       <w>reduce_right</w>
       <w>redun</w>
+      <w>refEllipsoids</w>
       <w>refit</w>
       <w>reformM</w>
       <w>reformulate</w>
@@ -9731,6 +10069,7 @@
       <w>regmatches</w>
       <w>regr.eval</w>
       <w>regtest.bit</w>
+      <w>regularCoordinates</w>
       <w>regular_minor_breaks</w>
       <w>rel</w>
       <w>relabel</w>
@@ -9742,6 +10081,7 @@
       <w>rematchDefinition</w>
       <w>remission</w>
       <w>remove</w>
+      <w>remove.duplicates</w>
       <w>remove.packages</w>
       <w>remove.vars</w>
       <w>removeAttributes</w>
@@ -9892,6 +10232,7 @@
       <w>rev.zoo</w>
       <w>revalue</w>
       <w>reverse_trans</w>
+      <w>revgeocode</w>
       <w>revoke_all</w>
       <w>reweight</w>
       <w>reweightPred</w>
@@ -9923,6 +10264,7 @@
       <w>ripemd160</w>
       <w>riskchart</w>
       <w>rivers</w>
+      <w>rjson</w>
       <w>rk</w>
       <w>rlang</w>
       <w>rle</w>
@@ -9993,6 +10335,8 @@
       <w>round_any</w>
       <w>round_hms</w>
       <w>roundrectGrob</w>
+      <w>route</w>
+      <w>routeQueryCheck</w>
       <w>row</w>
       <w>row.names</w>
       <w>row.names.data.frame</w>
@@ -10315,6 +10659,7 @@
       <w>segplot</w>
       <w>select</w>
       <w>select.list</w>
+      <w>select.spatial</w>
       <w>selectDirectory</w>
       <w>selectFile</w>
       <w>selectMethod</w>
@@ -10433,10 +10778,14 @@
       <w>setWindowTitle</w>
       <w>setXMLNamespace</w>
       <w>setZoom</w>
+      <w>set_Polypath</w>
+      <w>set_PolypathRule</w>
+      <w>set_ReplCRS_warn</w>
       <w>set_alias</w>
       <w>set_attrs</w>
       <w>set_callback</w>
       <w>set_chr_encoding</w>
+      <w>set_col_regions</w>
       <w>set_colnames</w>
       <w>set_config</w>
       <w>set_config_in</w>
@@ -10446,6 +10795,8 @@
       <w>set_expr</w>
       <w>set_header</w>
       <w>set_hooks</w>
+      <w>set_ll_TOL</w>
+      <w>set_ll_warn</w>
       <w>set_names</w>
       <w>set_parent</w>
       <w>set_reporter</w>
@@ -10655,6 +11006,7 @@
       <w>smooth.construct.ts.smooth.spec</w>
       <w>smooth.construct2</w>
       <w>smooth.f</w>
+      <w>smooth.map</w>
       <w>smooth.spline</w>
       <w>smooth2random</w>
       <w>smoothCon</w>
@@ -10698,9 +11050,21 @@
       <w>source_test_helpers</w>
       <w>source_test_setup</w>
       <w>source_test_teardown</w>
+      <w>sov.expand</w>
       <w>sp</w>
+      <w>sp.grid</w>
+      <w>sp.lines</w>
+      <w>sp.panel.layout</w>
+      <w>sp.points</w>
+      <w>sp.polygons</w>
+      <w>sp.text</w>
+      <w>sp.theme</w>
       <w>sp.vcov</w>
+      <w>spChFIDs</w>
+      <w>spDists</w>
+      <w>spDistsN1</w>
       <w>spMatrix</w>
+      <w>spTransform</w>
       <w>space</w>
       <w>spacing_conditional</w>
       <w>spacing_dimequal</w>
@@ -10761,7 +11125,12 @@
       <w>splits</w>
       <w>splom</w>
       <w>spm</w>
+      <w>spmap.to.lev</w>
       <w>spower</w>
+      <w>sppanel</w>
+      <w>spplot</w>
+      <w>spplot.key</w>
+      <w>spplot.locator</w>
       <w>spread</w>
       <w>spread.level.plot</w>
       <w>spreadLevelPlot</w>
@@ -10770,6 +11139,7 @@
       <w>spreads</w>
       <w>sprint</w>
       <w>sprintf</w>
+      <w>spsample</w>
       <w>spss.get</w>
       <w>sql</w>
       <w>sqlAppendTable</w>
@@ -10890,6 +11260,12 @@
       <w>stat_unique</w>
       <w>stat_ydensity</w>
       <w>stata.get</w>
+      <w>state.carto.center</w>
+      <w>state.cartoMapEnv</w>
+      <w>state.fips</w>
+      <w>state.vbm.center</w>
+      <w>state.vbmMapEnv</w>
+      <w>stateMapEnv</w>
       <w>statefig</w>
       <w>statistic</w>
       <w>stats</w>
@@ -11333,6 +11709,7 @@
       <w>supsmu</w>
       <w>surf.gls</w>
       <w>surf.ls</w>
+      <w>surfaceArea</w>
       <w>surrogate</w>
       <w>surroundSingletons</w>
       <w>survConcordance</w>
@@ -11561,9 +11938,11 @@
       <w>theme_get</w>
       <w>theme_gray</w>
       <w>theme_grey</w>
+      <w>theme_inset</w>
       <w>theme_light</w>
       <w>theme_linedraw</w>
       <w>theme_minimal</w>
+      <w>theme_nothing</w>
       <w>theme_replace</w>
       <w>theme_set</w>
       <w>theme_update</w>
@@ -12038,6 +12417,7 @@
       <w>undebugcall</w>
       <w>underline</w>
       <w>undoc</w>
+      <w>unemp</w>
       <w>unemployment</w>
       <w>ungroup</w>
       <w>union</w>
@@ -12111,6 +12491,7 @@
       <w>update_list</w>
       <w>update_pkg_po</w>
       <w>update_stat_defaults</w>
+      <w>updateusr</w>
       <w>updown</w>
       <w>upgrade</w>
       <w>upload_file</w>
@@ -12131,6 +12512,8 @@
       <w>url_relative</w>
       <w>url_success</w>
       <w>url_unescape</w>
+      <w>us.cities</w>
+      <w>usaMapEnv</w>
       <w>usdthb</w>
       <w>use.reclass</w>
       <w>use.xts</w>
@@ -12333,6 +12716,7 @@
       <w>winMenuItems</w>
       <w>winMenuNames</w>
       <w>winProgressBar</w>
+      <w>wind</w>
       <w>window</w>
       <w>windows</w>
       <w>windows.options</w>
@@ -12401,6 +12785,10 @@
       <w>word</w>
       <w>word_document</w>
       <w>words</w>
+      <w>world.cities</w>
+      <w>world.legacy</w>
+      <w>world2MapEnv</w>
+      <w>worldMapEnv</w>
       <w>wpbc</w>
       <w>wrap_dbplyr_obj</w>
       <w>wrap_dims</w>
@@ -12409,6 +12797,7 @@
       <w>write</w>
       <w>write.ENVI</w>
       <w>write.arff</w>
+      <w>write.asciigrid</w>
       <w>write.csv</w>
       <w>write.csv2</w>
       <w>write.dbf</w>
@@ -12428,8 +12817,10 @@
       <w>writeBin</w>
       <w>writeChar</w>
       <w>writeClipboard</w>
+      <w>writeJPEG</w>
       <w>writeLines</w>
       <w>writeMM</w>
+      <w>writePNG</w>
       <w>writePreference</w>
       <w>write_PACKAGES</w>
       <w>write_bib</w>
@@ -12449,6 +12840,7 @@
       <w>write_yaml</w>
       <w>writehex</w>
       <w>writesample</w>
+      <w>wrld</w>
       <w>wtd.Ecdf</w>
       <w>wtd.loess.noiter</w>
       <w>wtd.mean</w>
@@ -12678,10 +13070,13 @@
       <w>zeroGrob</w>
       <w>zero_coverage</w>
       <w>zero_range</w>
+      <w>zerodist</w>
+      <w>zerodist2</w>
       <w>ziP</w>
       <w>zip</w>
       <w>zip.unpack</w>
       <w>ziplss</w>
+      <w>zips</w>
       <w>zoo</w>
       <w>zoom</w>
       <w>zoomChart</w>
